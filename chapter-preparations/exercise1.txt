@@ -1,0 +1,14 @@
+$ mkdir my_folder
+$ cd my_folder
+$ touch one.js
+$ touch two.js
+
+# add the code console.log('this is file one'); to one.js
+
+# run the code
+$ node one.js
+
+#add the code console.log('this is file two'); to two.js
+
+# run the code
+$ node two.js
