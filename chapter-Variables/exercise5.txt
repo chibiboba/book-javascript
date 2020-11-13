@@ -1,0 +1,4 @@
+The program logs bar. In line 1, a variable called foo is declared and
+initialized with the value 'bar'. Later on the console.log prints foo, which 
+still has the value 'bar'. The log statement on line 6 ignores whatever happened inside 
+the block scope of the lines before it. 
