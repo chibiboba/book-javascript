@@ -1,0 +1,1 @@
+false because JavaScript is case sensitive when comparing strings. 

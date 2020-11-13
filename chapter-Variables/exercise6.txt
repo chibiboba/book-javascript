@@ -1,0 +1,2 @@
+The program does not produce an error, because even though the same variable is declared, 
+they are in two different scopes. The two const variables are thus two  separate entities.

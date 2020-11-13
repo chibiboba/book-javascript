@@ -1,0 +1,3 @@
+The program outputs an error because foo is out of scope. 
+The let statement created a variable within a block scope. Outside of the block, 
+foo wouldn't exist. 
