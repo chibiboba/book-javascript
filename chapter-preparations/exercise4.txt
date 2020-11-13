@@ -1,0 +1,31 @@
+1. 
+
+# in the terminal 
+
+$ node foo.js
+bar 
+
+ 
+2. 
+
+$ node
+// Inside node REPL
+
+> let foo = "bar";
+= undefined
+
+> console.log(foo);
+= undefined
+
+> foo; 
+= 'bar'
+
+3. 
+
+// Inside Chrome REPL
+
+> let foo = 'bar'; 
+  console.log(foo);
+  foo 
+bar
+= "bar"

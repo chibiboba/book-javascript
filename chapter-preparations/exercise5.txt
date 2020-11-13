@@ -1,0 +1,19 @@
+Method Name: substring
+Constructor: String
+Method Type: Prototype method
+
+Method Name: create
+Constructor: object
+Method Type: Static method
+
+Method Name: fromCharCode
+Constructor: String
+Method Type: Static method
+
+Method Name: slice 
+Constructor: Array, String
+Method Type: Prototype method
+
+Method Name: toString
+Constructor: String, Object, Array, Number
+Method Type: Prototype method

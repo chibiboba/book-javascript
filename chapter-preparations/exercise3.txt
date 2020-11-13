@@ -1,0 +1,10 @@
+$ cd chapter-preparations
+$ mkdir preparations_exercises
+$ cd preparations_exercises
+$ touch foo.js
+
+# use editor to add code to the file
+# let foo = "bar"; 
+# console.log(foo);
+foo; 
+
