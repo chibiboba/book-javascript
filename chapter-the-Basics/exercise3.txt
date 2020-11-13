@@ -1,0 +1,17 @@
+Value: 'true'	
+Type: String
+
+Value: false	
+Type: Boolean
+
+Value: 1.5	
+Type: Number
+
+Value: 2	
+Type: Number
+
+Value: undefined	
+Type: Undefined
+
+Value: { foo: 'bar' }	
+Type: Object
