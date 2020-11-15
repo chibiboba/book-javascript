@@ -1,0 +1,1 @@
+/* It returns Yipee!!!! but doesn't log anything to the console. */ 
