@@ -1,0 +1,3 @@
+The code logs 1 to the console. Executing foo function didn't affect
+the output because the function did not reassign bar to a different value. It instead
+created a new variable also called bar, but within its own function scope. 

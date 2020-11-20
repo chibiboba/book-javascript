@@ -1,0 +1,2 @@
+It doesn't produce an error because the three components of a for loop are optional. 
+The incrementation of i occurs on the second line inside the console.log statement. 
