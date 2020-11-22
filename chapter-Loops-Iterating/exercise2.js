@@ -2,7 +2,7 @@ function factorial (number) {
     
     let result = 1; //returns 1 if number is 0 and the for loop doesn't run. 
     
-    for (let counter = number ; counter > 0; counter -= 1) { //declares the counter variable here
+    for (let counter = number ; counter > 0; counter -= 1) { //declares the counter variable
         result *= counter; 
     }
     
