@@ -1,11 +1,15 @@
 let arr = ['a', 'abcd', 'abcde', 'abc', 'ab'];
 console.log(oddLengths(arr)); // => [1, 5, 3]
 
+// find length of the strings, then filter for odd numbers
 
 function oddLengths(arr){
-  let stringLengths = arr.reduce((accumualtor, element) => element.length, 0);
-  let filtered = stringLengths.reduce((accumulator, element) => {
-    return element % 2 !== 0;
-    } , 0); 
-  return filtered; 
+  return arr.reduce((filteredArray, element) => { // accumulator is an array 
+    let length = element.length; 
+    if (length % 2 !== 0) { 
+      filteredArray.push(length); //push elements into the array 
+    }
+    
+    return filteredArray; //return statement for the accumulator 
+  }, []); 
 }
