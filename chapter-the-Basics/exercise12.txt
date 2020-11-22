@@ -1,0 +1,3 @@
+It evaluates to true because the operands are strings. When comparing strings, 
+JavaScript performs a character-by-character comparison from left to right.
+It determines that '1' < '9', so '12' must be less than '9'. 

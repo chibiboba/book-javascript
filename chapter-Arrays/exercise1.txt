@@ -1,0 +1,15 @@
+array1: 4. The length is the highest index position that has a value, plust 1. 
+In this case, the highest index position has a value of 3: add 1 to that, to get
+length of 4. 
+
+array2: 5. You can set the length of an array. Even if the highest index position 
+that has a value is assigned to 0, assigning a new length of 5 overrides that length and 
+adds elements with a value of undefined to fill the gap. 
+
+array3: 0. Index positions must be non-negative integers starting from 0. 
+
+array4: 3. When you set an array to a length shorter than its current length, the array
+gets truncated. 
+
+array5: 101. The length is the highest index position that has a value, 
+plus 1. 

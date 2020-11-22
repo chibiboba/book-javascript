@@ -1,0 +1,2 @@
+The output is Not Empty. 
+An empty array is not falsy in JavaScript. 

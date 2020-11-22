@@ -1,0 +1,11 @@
+> let numbers1 = [1, 3, 5, 7, 9, 11];
+> numbers1.includes(3);
+= true
+
+> let numbers2 = [];
+> numbers2.includes(3);
+= false
+
+> let numbers3 = [2, 4, 6, 8];
+> numbers3.includes(3);
+= false

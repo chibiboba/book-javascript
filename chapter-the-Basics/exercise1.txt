@@ -1,0 +1,4 @@
+$ node
+
+> 'John' + ' ' + 'Doe'
+= 'John Doe'

@@ -1,0 +1,4 @@
+The code logs '510' instead of 15 because of implicit type coercion. 
+When using +, if either operand is a String and the other is not, 
+Javascript coerces the non-String operand into a String. 
+This means 10 got coerced to a String and then concatenated to the String '5'. 

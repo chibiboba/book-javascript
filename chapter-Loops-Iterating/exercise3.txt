@@ -1,0 +1,4 @@
+The issue arose on line 3 when counter was assigned to 1 in the conditional part 
+of the while loop. JavaScript accepts this code because the assignment always returns
+a truthy value of 1. So the loop condition never becomes false. Even though there is a
+counter += 1, at every iteration counter is reassigned back to 1. 

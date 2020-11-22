@@ -1,0 +1,1 @@
+/* It doesn't log anything. There is no console.log statement. */ 

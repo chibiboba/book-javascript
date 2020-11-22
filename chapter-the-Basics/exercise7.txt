@@ -1,0 +1,1 @@
+There won't be an error. Instead, JavaScript returns undefined. 
