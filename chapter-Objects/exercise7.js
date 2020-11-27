@@ -20,4 +20,4 @@ foo
 bar
 
 Snippet 1 logs only myObj's own properties: 
-qux
+qux */
