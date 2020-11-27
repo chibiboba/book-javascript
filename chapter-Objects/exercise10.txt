@@ -1,0 +1,15 @@
+How many primitive values are there in the following expression? 
+6
+
+Identify them.
+1, 2, "a", "b", false, null
+
+How many objects are there in the expression? 
+
+4
+
+Identify those objects.
+["b", false]
+["a", ["b", false]]
+[1, 2, ["a", ["b", false]], null, {}]
+{}

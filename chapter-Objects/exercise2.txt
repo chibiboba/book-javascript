@@ -1,0 +1,15 @@
+1
+
+'1'
+
+undefined
+
+'hello world'
+
+true
+
+'true'
+
+They are all valid keys. However, note that JavaScript coerces the non-string
+key values to strings. So 1 and '1', or true and 'true' represent the same 
+value. 
