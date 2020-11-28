@@ -1,0 +1,11 @@
+An error occured in the exercise2.js program on line 4 of the program. 
+A ^ points to where JavaScript thinks the error is in the code, which is pointing
+to the argument list for the console.log. 
+
+Line 6 of the output tells us that a ReferenceError exception occured and that
+greeting isn't defined. Line 7 tells us that JavaScript detected the error at column 15
+of line 4, and also tells us that the code is in the hello function. Line 8 tells us
+that hello was called from line 13 of the program in an anonymous function, 
+the global-level of the program. 
+
+The rest of the output comes from running the code in node. 

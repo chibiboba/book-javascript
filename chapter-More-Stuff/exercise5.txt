@@ -1,0 +1,18 @@
+This function uses method chaining: : calling a method on the return value 
+of another method. 
+ 
+
+The split() method divides string into an ordered list of substrings,
+puts these substrings into an array, and returns the array.  
+The division is done by searching for a pattern,  where the pattern is provided 
+as the first parameter in the method's call.  
+
+The reverse() method reverses an array in place. The first array element becomes
+the last, and the last array element becomes the first. 
+
+Then the array uses .map() to iterate over each element. During each iteration, 
+the element's length is returned. 
+
+In summary, this code converts a string into an array of words, reverse that array,
+and then returns a new array that contains thelengths of the words. It assumes that
+a single space character delimits the words in the original string. 

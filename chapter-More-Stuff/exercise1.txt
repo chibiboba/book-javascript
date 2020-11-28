@@ -1,0 +1,7 @@
+It logs [1, 4, 3]. 
+
+array1 and array2 reference the same array. Line 3 reassigns an element, which
+also changes the element in array2. 
+
+Assignment of an array to another array doesn't create a new array, but instead
+copies a reference from the original array(array1) to the target array(array2). 
