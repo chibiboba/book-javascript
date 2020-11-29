@@ -1,0 +1,7 @@
+The return value is the numeric value 6. 
+
+If you apply ++ to a string, JavaScript coerces it to a number. So "5" was 
+coerced to the number 5. Since y++ is the post-increment operator, it returns
+the original value of y, not the incremented value. 
+
+This shows that x++ is not the same thing as x = x + 1. 
